@@ -6,4 +6,4 @@ Follow the steps to run this Weather App
 
 2)Run the follwowing command to run it.
 
-3)node app.js London(your city name)
+3)node app.js London(Enter your city name)
